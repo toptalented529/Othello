@@ -1,4 +1,4 @@
-react-reversi
+test task
 =============
 
 Implementation of the game of Reversi (Othello) in React/Redux/TypeScript.
